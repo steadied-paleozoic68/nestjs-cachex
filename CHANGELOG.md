@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/77hdumat/nestjs-cachex/compare/v1.0.0...v1.1.0) (2026-03-30)
+
+
+### Features
+
+* @CacheEvict에 debounceMs 옵션 추가 ([1543123](https://github.com/77hdumat/nestjs-cachex/commit/15431231811f31325a7fefbabad25800e5f84654))
+
 # 1.0.0 (2026-03-30)
 
 
